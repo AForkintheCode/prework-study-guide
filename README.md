@@ -11,7 +11,7 @@ N/A
 ## Usage
 
 To use the Study Guide, you can  review the notes in each section.  To get suggestions on what to study first, open the page in DevTools.  A console panel should open and will display a list of topics covered by the Study Guide.
-![alt text](assets/images/screenshot.png)
+
 
 ## Credits
 
