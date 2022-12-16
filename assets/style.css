@@ -29,11 +29,6 @@ ul {
     font-size: 20px;
 }
 
-p {
-    text-align: left;
-    font-size: 18px;
-  }
-
 .card {
     width: 80%;
     margin: 40px auto;
@@ -41,6 +36,10 @@ p {
     box-shadow: 5px 10px #888888;
   }
 
+.card p {
+    text-align: left;
+    font-size: 18px;
+}
 .ECSS {
     color:blue;
     font-family: cursive;
